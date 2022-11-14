@@ -1,3 +1,3 @@
 # eeerinzzz.github.io
-just for private use
-Thanks for the idea comes from
+Just for private use
+Thanks for the idea comes from @smilegupta
