@@ -235,7 +235,7 @@ font-family: 'Lobster', cursive;
 
 .velas:after,
 .velas:before {
-  background: rgba(255, 0, 0, 0.4);
+  background: rgba(147, 112, 219, 0.4);
   content: "";
   position: absolute;
   width: 100%;
